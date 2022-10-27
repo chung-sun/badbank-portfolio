@@ -1,9 +1,9 @@
 # Project Title: BadBank Portfolio
-# Description/Motivation:
+## Description/Motivation:
 
 A simple Banking Application
 
-# Installation Guidelines:
+## Installation Guidelines:
 
 To clone this repository from your terminal:
 
@@ -17,11 +17,18 @@ after downloading run npm install from your directory
 npm install
 ```
 you will need to setup mongodb for this project
-# Screenshots:
-# Technology used:
 
-This project uses express, mongodb, cors, and firebase
-# Features:
-# License:
+View the website at: http://localhost:3000
+
+## Screenshots:
+## Technology used:
+
+This project uses express, mongodb, cors, firebase, and docker container for our database (mongodb)
+If you are using docker to run your mongodb, use the following code to create in instance
+```
+$ docker run --name some-mongo -d mongo:tag
+```
+## Features:
+## License:
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
