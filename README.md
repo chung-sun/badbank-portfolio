@@ -21,9 +21,19 @@ you will need to setup mongodb for this project
 View the website at: http://localhost:3000
 
 ## Screenshots:
+
+<img width="700" src="https://github.com/chung-sun/badbank-portfolio/blob/main/Screenshot%202022-08-03%20150540.png"/>
+<img width="700" src="https://github.com/chung-sun/badbank-portfolio/blob/main/Screenshot%202022-08-03%20150629.png"/>
+<img width="700" src="https://github.com/chung-sun/badbank-portfolio/blob/main/Screenshot%202022-08-03%20150653.png"/>
+<img width="700" src="https://github.com/chung-sun/badbank-portfolio/blob/main/Screenshot%202022-08-03%20150712.png"/>
+<img width="700" src="https://github.com/chung-sun/badbank-portfolio/blob/main/Screenshot%202022-08-03%20150729.png"/>
+<img width="700" src="https://github.com/chung-sun/badbank-portfolio/blob/main/Screenshot%202022-08-03%20150807.png"/>
+<img width="700" src="https://github.com/chung-sun/badbank-portfolio/blob/main/Screenshot%202022-08-03%20150836.png"/>
+<img width="700" src="https://github.com/chung-sun/badbank-portfolio/blob/main/Screenshot%202022-08-03%20150905.png"/>
+
 ## Technology used:
 
-This project uses express, mongodb, cors, firebase, and docker container for our database (mongodb)
+This project uses express, mongodb, cors, dotenv, firebase, and docker container for our database (mongodb)
 
 <p align="center">
 <img width="100" height="30" src="https://img.shields.io/static/v1?label=&message=MongoDB&color=grey"/>
