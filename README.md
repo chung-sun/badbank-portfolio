@@ -16,7 +16,7 @@ after downloading run npm install from your directory
 ```
 npm install
 ```
-[![NPM Version][npm-version-image]][npm-url]
+you will need to setup mongodb for this project
 # Screenshots:
 # Technology used:
 
@@ -24,3 +24,4 @@ This project uses express, mongodb, cors, and firebase
 # Features:
 # License:
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
+
